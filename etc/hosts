@@ -1,0 +1,478 @@
+#--------------------------------------
+# config Name: [?·ë§ˆë¸?QATZ
+#--------------------------------------
+# comment : QA Test Zone ?¤ì •             
+#--------------------------------------
+
+192.168.62.223    download.netmarble.net  # ActiveX
+192.168.62.223    badukfile.netmarble.net   # ActiveX 
+222.122.146.170  sso.netmarble.net
+222.122.146.170  sign.netmarble.net 
+
+
+222.122.146.171 master.netmarble.net
+222.122.146.171 alpha-grandmaster.playnetwork.co.kr
+222.122.146.171 alpha-ma9gm.playnetwork.co.kr
+222.122.146.171 alpha-ma9gm.hangame.com
+222.122.146.171 monarch.netmarble.net
+222.122.146.171 poker.toctocgame.com
+222.122.146.171 gunz.netmarble.net
+222.122.146.171 gunz.nate.netmarble.net
+222.122.146.171 rift.netmarble.net
+222.122.146.171 shadow.netmarble.net
+222.122.146.171 sf2.netmarble.net
+222.122.146.171 sf2-r.netmarble.net
+222.122.146.171 alpha-sf2.playnetwork.co.kr
+222.122.146.171 alpha-sf2.hangame.com
+222.122.146.171 btf.netmarble.net
+222.122.146.171 allods.netmarble.net
+222.122.146.171 sof.netmarble.net
+#222.122.146.171 www.netmarble.net
+112.175.174.113 alpha-www.netmarble.net
+222.122.146.171 login.netmarble.net
+222.122.146.171 member.netmarble.net
+222.122.146.171 mobile.netmarble.net
+222.122.146.171 mypage.netmarble.net
+222.122.146.171 private.netmarble.net
+222.122.146.171 gnb.netmarble.net
+222.122.146.171 notice.netmarble.net
+222.122.146.171 pm.netmarble.net
+222.122.146.171 service.netmarble.net
+222.122.146.171 magazine.netmarble.net
+222.122.146.171 freezone.netmarble.net
+222.122.146.171 nls.netmarble.net
+222.122.146.171 sidebar.netmarble.net
+222.122.146.171 find.netmarble.net
+222.122.146.171 api.netmarble.net
+222.122.146.171 event.netmarble.net
+222.122.146.171 baduk.netmarble.net
+222.122.146.171 avatar.netmarble.net
+222.122.146.171 shop.netmarble.net
+222.122.146.171 chat.netmarble.net
+222.122.146.171 club.netmarble.net 
+222.122.146.171 family.netmarble.net
+222.122.146.171 bf.netmarble.net 
+222.122.146.171 bf.tooniland.com 
+222.122.146.171 ma9m.netmarble.net 
+222.122.146.171 hounds.game.naver.com
+
+
+222.122.146.171 game1.netmarble.net 
+222.122.146.171 game2.netmarble.net
+222.122.146.171 game3.netmarble.net 
+222.122.146.171 game4.netmarble.net
+222.122.146.171 gamesys.netmarble.net
+222.122.146.171 flashgame.netmarble.net
+222.122.146.171 ceo.netmarble.net
+222.122.146.171 ma9.netmarble.net
+222.122.146.171 m.ma9.netmarble.net
+222.122.146.171 ma9real.netmarble.net
+222.122.146.171 m.ma9real.netmarble.net
+222.122.146.171 ma9stat.netmarble.net
+222.122.146.171 koongya.netmarble.net
+222.122.146.171 dbo.netmarble.net
+222.122.146.171 nova2.netmarble.net
+222.122.146.171 pico.netmarble.net
+222.122.146.171 aoz.netmarble.net
+222.122.146.171 ba.netmarble.net
+222.122.146.171 hunter.netmarble.net
+222.122.146.171 battlestar.netmarble.net
+222.122.146.171 wsweb.netmarble.net
+222.122.146.171 vagabond.netmarble.net
+222.122.146.171 suddenattack.netmarble.net
+222.122.146.171 channel.netmarble.net
+222.122.146.171 mbox.netmarble.net
+222.122.146.171 mvoice.netmarble.net
+222.122.146.171 superstark.netmarble.net
+222.122.146.171 superstark.nate.netmarble.net
+222.122.146.171 cmind.netmarble.net
+222.122.146.171 zombieon.netmarble.net
+222.122.146.171 sf2-qa.netmarble.net
+222.122.146.171 test.netmarble.net
+222.122.146.171 yaburi.netmarble.net
+222.122.146.171 yaburi.tooniland.com
+222.122.146.171 minifighter.netmarble.net
+222.122.146.171 s2.netmarble.net
+222.122.146.171 m.s2.netmarble.net
+222.122.146.171 tmo.netmarble.net
+222.122.146.171 mo.netmarble.net
+222.122.146.171 kingdoms.netmarble.net
+222.122.146.171 ah.netmarble.net
+222.122.146.171 ma9gm.netmarble.net
+222.122.146.171 www.imgemsuda.com
+222.122.146.171 gunz2.netmarble.net
+222.122.146.171 zipi.netmarble.net
+222.122.146.171 cha9.netmarble.net
+222.122.146.171 cha9.game.pmang.com
+222.122.146.171 dark.netmarble.net
+222.122.146.171 moma.netmarble.net
+222.122.146.171 modoo.netmarble.net
+222.122.146.171 mboxapp.netmarble.net
+222.122.146.171 dho.netmarble.net
+222.122.146.171 dho.game.daum.net
+222.122.146.171 dho.daum.net
+222.122.146.171 test-dho.netmarble.net
+222.122.146.171 test-dho.game.daum.net
+222.122.146.171 test-dho.daum.net
+222.122.146.171 fps.netmarble.net
+222.122.146.171 gunz2-o.netmarble.net
+222.122.146.171 hounds.netmarble.net
+222.122.146.171 hounds-dev14.netmarble.net
+222.122.146.171 hounds-dev21.netmarble.net
+222.122.146.171 everybomb.netmarble.net
+222.122.146.171 pnk.netmarble.net
+10.102.90.55 eloa.netmarble.net
+222.122.146.171 pirates.netmarble.net
+
+
+222.122.146.171 mobilenotice.netmarble.net
+
+222.122.146.171 natmember.netmarble.net
+
+222.122.146.171 chat-now.netmarble.net
+222.122.146.171 gameauth.netmarble.net
+222.122.146.171 gamesys.netmarble.net
+222.122.146.171 alpha-modoo.hangame.com 
+222.122.146.171 mystic-cbt.netmarble.net
+222.122.146.171 mystic.netmarble.net
+222.122.146.171 cha9-obt.netmarble.net
+222.122.146.171 cha9-obt.game.pmang.com
+222.122.146.171 cha9-cbt.game.pmang.com
+222.122.146.171 who.netmarble.net
+
+
+222.122.146.171 helpdesk.netmarble.net 
+222.122.146.171 mstar-prof.netmarble.net
+
+222.122.146.171 www.cjenmgames.com 
+
+# ê°œë°œê³??¤ìŒ ?€??•´ ìºì‹œì¶©ì „
+222.122.147.87 cash.daum.netmarble.net
+
+#pcë°?
+222.122.146.171 pcbang.netmarble.net
+#112.175.178.105 pcbangbill.netmarble.net 
+183.110.61.115 pcbangbill.netmarble.net 
+183.110.61.115 marblebank-qa.netmarble.net
+
+192.168.62.60    seoyugi.netmarble.net
+#192.168.62.60    chase.netmarble.net
+222.122.146.171   chase.netmarble.net
+
+
+
+#?¤ì´??ì±„ë„ë§?
+222.122.146.171          game.nate.com
+222.122.146.171          natmember.netmarble.net
+222.122.146.171          gnb.netmarble.net222.122.146.171          ceo.nate.netmarble.net
+222.122.146.171          game3.nate.netmarble.net
+222.122.146.171          game4.nate.netmarble.net
+222.122.146.171         ma9.nate.netmarble.net
+222.122.146.171         modoo.nate.netmarble.net
+222.122.146.171         game2.nate.netmarble.net
+
+#NHN Playnet
+222.122.146.171         chase.nate.netmarble.net
+
+222.122.146.171         alpha-modoo.playnetwork.co.kr
+
+#? ê²Œ??
+222.122.146.171 zombieon.mgame.com
+
+112.175.178.118 pigeon-gs.common.netmarble.net
+
+192.168.62.223   gamepatch01.netmarble.net
+192.168.62.223   gamepatch02.netmarble.net
+192.168.62.223   gamepatch03.netmarble.net
+
+
+#ì§€ë§ˆì¼“
+222.122.146.171 netmarble.gmarket.co.kr
+
+# ì¤‘êµ­ ë°”ë‘‘ ?¨ì¹˜ ?¤í¬ë¦½íŠ¸, ë°”ë‘‘ ë§ˆìŠ¤?°ì„œë²?
+112.175.178.81   badukmsvr.netmarble.net
+
+#ì£¼ì„ ê¸¸ë“œ
+#218.153.10.185 guild.zusun.co.kr
+
+220.73.216.62	c1.img.netmarble.kr
+220.73.216.62	c2.img.netmarble.kr
+220.73.216.62	c3.img.netmarble.kr
+
+
+#ë¹Œë§ QA Test Zone
+222.122.146.173 cash.netmarble.net
+112.175.178.100 nbill.netmarble.net
+112.175.178.98 nbillmanager-qa.netmarble.net  #ë¹Œë§?´ë“œë¯?
+
+
+# ëª¨ë°”?¼ì›¹?¬í„¸ QA TEST
+112.175.178.241 alpha-m.mo.netmarble.net
+183.110.59.71 alpha-m.netmarble.net
+#112.175.174.112 m.netmarble.net
+#112.175.178.241 alpha-m.netmarble.net
+112.175.178.241 m.sf2.netmarble.net
+112.175.178.241 alpha-m.rift.netmarble.net
+112.175.178.241 alpha-m.sf2.netmarble.net
+112.175.178.241 alpha-m.monarch.netmarble.net
+112.175.178.241 alpha-m.gunz.netmarble.net
+112.175.178.241 alpha-m.mstar.netmarble.net
+112.175.178.241 alpha-m.hunter.netmarble.net
+112.175.178.241 alpha-m.hounds.netmarble.net
+112.175.178.241 alpha-m.modoo.netmarble.net
+112.175.178.241 alpha-m.gunz2.netmarble.net
+112.175.178.241 alpha-m.chase.netmarble.net
+112.175.178.241 alpha-m.ma9gm.netmarble.net
+112.175.178.241 alpha-m.modooplus.netmarble.net
+112.175.178.241 alpha-m.cha9plus.netmarble.net
+183.110.59.71 alpha-m.magu2.netmarble.net
+
+#ëª¨ë°”??GNB
+
+
+#?…ë¬´ì§€?íˆ´ : nmservice
+#192.168.62.63 nmservice.netmarble.net
+#192.168.62.63 nmservice2.netmarble.net
+#192.168.62.63 cpservice.netmarble.net
+
+#192.168.62.122 sso.netmarble.net
+#112.175.178.25 sso.netmarble.net
+#192.168.62.63 cpservice2.netmarble.net
+192.168.62.63 nmservice-qa.netmarble.net nmservice2-qa.netmarble.net
+
+
+#? ìŠ¤?€ Java ë²„ì „ ?ŒìŠ¤??
+#192.168.62.249 dev-boardapi.netmarble.net
+218.153.10.72 cms.cjinternet.co.kr
+220.95.217.233 dev-js.netmarble.net
+#220.73.216.253  fileup.netmarble.net #file upload server QA êµ¬ì„±???„í•œ ?œë²„
+222.122.134.119 game3.netmarble.ne
+
+## JAVA
+112.175.178.242 alpha-mstar.netmarble.net
+112.175.178.242 alpha-hounds.netmarble.net
+112.175.178.242 alpha-mvoice.netmarble.net
+112.175.178.242 alpha-dark.netmarble.net
+
+112.175.178.243 alpha-push.api.netmarble.net
+112.175.178.243 m.gnb.netmarble.net
+112.175.178.243 signum.netmarble.net
+112.175.178.243 alpha-miap.netmarble.net
+183.110.59.71 alpha-m.gnb.netmarble.net
+
+
+112.175.178.243 alpha-boardapi.netmarble.net
+112.175.178.243 alpha-m.api.netmarble.net
+112.175.178.243 m.api.netmarble.net
+112.175.178.243 alpha-m.memo.netmarble.net
+112.175.178.243 alpha-push.netmarble.net
+112.175.178.243 alpha-m.nms.netmarble.net
+112.175.178.243 alpha-boardadmin.netmarble.net
+112.175.178.243 alpha-enjoy.netmarble.net
+112.175.178.243 alpha-cbt.netmarble.net
+112.175.178.243 alpha-dnd.netmarble.net
+112.175.178.243 alpha-m.www.netmarble.net
+
+112.175.178.241 alpha-m.everybomb.netmarble.net
+ 
+222.122.146.146 cc-qat2.netmarble.net
+222.122.134.125 cc-stage2.netmarble.net
+
+
+
+#CC SMS ì¶”ì¶œ ë°œì†¡
+218.153.10.70 ccsms.netmarble.net
+
+#?¼ë§ ì±„ë„ë§??ŒìŠ¤???˜ê²½
+#222.122.146.170    nmsign.game.pmang.com 
+#222.122.146.171    nmmember.game.pmang.com 
+#222.122.146.171    cha9.game.pmang.com
+
+#182.162.241.41    cha9.pmang.com
+#182.162.241.41    www.pmang.com
+#182.162.241.41    secure.pmang.com
+#182.162.241.41    member.pmang.com
+#182.162.241.41    memo.pmang.com
+#182.162.241.41    pmang.com
+#182.162.238.119   dl.pmang.com
+#182.162.241.41    my.pmang.com
+#182.162.241.41    boardr.pmang.com
+#182.162.241.41    boardw.pmang.com
+#182.162.241.41    how.pmang.com
+#182.162.241.41    pub.pmang.com
+#182.162.241.41    appsvr.pmang.com
+#182.162.241.41    appsvr.pmang.com 
+
+
+
+#CP??ë§Œí™”/?í™”/?Œì„¤
+114.108.171.205 comix.netmarble.net 
+203.238.4.133  devnovel.netmarble.net
+175.119.157.15 movie.netmarble.net 
+175.119.157.15 adult.netmarble.net
+
+#ë°©ì†¡ QC?œë²„
+119.149.188.201  tving.netmarble.net
+
+
+#?€??
+112.175.178.94 texasholdem.netmarble.net
+
+#?¼ë§ ì±„ë„ë§?
+ 222.122.146.170 nmsign.game.pmang.com 
+ 222.122.146.171 nmmember.game.pmang.com 
+ 222.122.146.171 cha9.game.pmang.com
+ 222.122.146.171 modoo.game.pmang.com
+ 182.162.238.119 dl.pmang.com
+ 182.162.241.41 modoo.pmang.com
+ 182.162.241.41 cha9.game.pmang.com
+ 182.162.241.41 www.pmang.com
+ 182.162.241.41 secure.pmang.com
+ 182.162.241.41 member.pmang.com
+ 182.162.241.41 memo.pmang.com
+ 182.162.241.41 pmang.com
+ 182.162.241.41 my.pmang.com
+ 182.162.241.41 boardr.pmang.com
+ 182.162.241.41 boardw.pmang.com
+ 182.162.241.41 how.pmang.com
+ 182.162.241.41 pub.pmang.com
+ 182.162.241.41 appsvr.pmang.com
+ 182.162.241.41 appsvr.pmang.com 
+ #182.162.241.39 modoo.pmang.com
+ #182.162.241.39 cha9.pmang.com
+ #182.162.241.39 www.pmang.com
+ #182.162.241.39 secure.pmang.com
+ #182.162.241.39 member.pmang.com
+ #182.162.241.39 memo.pmang.com
+ #182.162.241.39 pmang.com
+ #182.162.241.39 my.pmang.com
+ #182.162.241.39 boardr.pmang.com
+ #182.162.241.39 boardw.pmang.com
+ #182.162.241.39 appsvr.pmang.com 
+
+#captcha
+119.196.11.17    captcha.netmarble.net
+
+#?„í¬??
+220.73.216.62 c2.img.netmarble.kr
+
+
+#?„ì¹˜ê¸°ë°˜
+61.33.245.33     idsafe.netmarble.net
+
+#ë§ˆë¸”??QA TEST ZONE
+ #222.122.146.171   helpcs.netmarble.net     # QATZ
+ #112.175.178.39  alpha-marbleone.netmarble.net   # dev
+ #112.175.178.39 alpha-halo.netmarble.net    # dev
+ #112.175.176.120 alpha-marbleone-api.netmarble.net  # dev
+ #112.175.178.234 marbleone-user.netmarble.net  #TestZone 
+
+#ë§ˆë¸”??CMS ?ŒìŠ¤?¸ìš© ?˜ê²½
+10.103.91.243 alpha-cs.nmn.io
+10.103.91.243 alpha-marbleone.netmarble.net   # dev
+10.103.91.243 alpha-marbleone-api.netmarble.net  # dev
+10.103.91.243 alpha-marbleone-api.netmarble.com  # dev
+10.103.91.243 alpha-marbleone-api.netmarble.com.cn
+10.103.91.243 alpha-marbleone-game.netmarble.net # dev
+10.103.91.243 alpha-marbleone-excel.netmarble.net
+
+220.95.217.52  helpcs.netmarble.net alpha-helpcs.netmarble.net # alpha
+220.95.217.238  help.netmarble.com alpha-help.netmarble.com
+220.95.217.239 help.netmarble.com.cn alpha-help.netmarble.com.cn
+
+#ê¸€ë¡œë²Œ?µí´
+192.168.62.223 pokercdn.xgridcolo.com          
+
+#?¤í”¼?œì‚¬?´íŠ¸
+10.102.90.25 alpha-company.netmarble.com
+10.102.90.25 m.netmarble.com
+10.102.90.25 www.netmarble.com 
+
+
+#ëª¨ë°”??
+112.175.176.53 alpha-event.view.netmarble.net
+10.100.95.155 alpha-chrono.netmarble.net #?¬ë¡œ?¸ë¸”?ˆì´??
+183.110.59.71 alpha-raven.netmarble.net #?ˆì´ë¸?
+10.102.90.31 ma9ma9live.netmarble.net #ë§ˆêµ¬ë§ˆêµ¬Live
+
+## ?¤ì´ë²?ì±„ë„ë§?
+222.122.146.170 alpha-sign.game.naver.com
+222.122.146.171 nmgame.game.naver.com
+222.122.146.171 event.game.naver.com
+222.122.146.171 event.netmarble.game.naver.com
+222.122.146.171 mstar-prof.game.naver.com
+112.175.178.242 mstar.game.naver.com
+10.102.90.55 eloa.game.naver.com
+112.175.176.201 bill.netmarble.game.naver.com #êµ¬ë§¤???¤ê³„?ì„œ ?•ì¸
+112.175.178.243 alpha-api.board.game.naver.com
+
+#?·ë§ˆë¸”ê²½ë§?
+183.110.59.71 alpha-netmarblederby.com
+
+#?Œì´?¬ì¸  ??
+10.100.97.103 alpha-pirates-app.nmpriv.com
+
+#event ?œë²„
+10.102.90.53 alpha-promotion.netmarble.net
+10.102.90.53 alpha-nes.netmarble.net
+10.102.90.53 alpha-nes.netmarble.com
+10.102.90.53 alpha-spromotion.netmarble.net
+
+#event dev
+220.95.217.65 cpdev-nes.netmarble.net
+220.95.217.65 cpdev-nes.netmarble.com
+
+#DM ?˜ì‹ /ê±°ë?
+10.104.91.146 alpha-dm.netmarble.com
+
+#ë¸”ë ˆ?´ë“œ?ˆì¸ 
+10.102.90.31 alpha-bw.netmarble.com
+
+#ë¸”ëŸ¬?œë ˆ?´ë“œ ê¸€ë¡œë²Œ
+10.102.90.31 alpha-bloodraid.netmarble.com
+10.102.90.31 alpha-br.netmarble.com
+
+10.102.90.53 alpha-api.promotion.netmarble.net
+10.102.90.53 alpha-api.promotion2.netmarble.net
+10.102.90.53 alpha-api.promotion3.netmarble.net
+
+#183.110.59.71 alpha-magu2.netmarble.net
+#183.110.59.71 mobilegnb.netmarble.net
+#183.110.59.71 alpha-mobilegnb.netmarble.net
+
+#?í”½?¬ê?
+10.102.90.31 alpha-epic.netmarble.com
+
+#?´ì‚¬ë§Œë£¨
+10.102.90.31 alpha-full2.netmarble.net
+
+#?Œìš¸??
+10.102.90.31 alpha-soulking.netmarble.com
+
+#?°ìŠ¤?°ë‹ˆ6
+10.102.90.31 alpha-destiny6.netmarble.com
+
+#ë§ˆí“¨??
+10.102.90.31 alpha-marvelfuturefight.netmarble.com
+
+#raven, evilbane
+10.102.90.31 alpha-raven.netmarble.com
+10.102.90.31 alpha-evilbane.netmarble.com
+
+#?Œì´?ìƒ·
+10.102.90.31 alpha-finalshot.netmarble.com
+
+#?¤í†¤?ì´ì§€ êµ?‚´
+10.102.90.31 alpha-stoneage.netmarble.net
+
+#cpdev-event.view
+183.110.61.131 cpdev-event.view.netmarble.net
+
+#alpha-?¬ë¡œ?¸ë¸”?ˆì´??
+10.102.90.31 alpha-chrono.netmarble.com
+
+#alpha-?¸ë‚˜ê¸€ë¡œë²Œ
+10.102.90.31 alpha-sevenknights.netmarble.com
+
+#alpha-ë¦¬ë‹ˆì§€2
+10.102.90.31 alpha-l2.netmarble.net
